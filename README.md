@@ -49,6 +49,6 @@ that shows the status of the show.
 ---
 
 
-To test your code enter the shows folder than run `npm start` in your terminal and in another terminal run `npm run test`. 
+To test your code run `npm start` in your terminal and in another terminal run `npm run test`. 
 
 
