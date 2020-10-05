@@ -11,6 +11,8 @@ Welcome to our challenge! In this challenge we will test your abilities to creat
 
 * Some part of the code is already given. You can see in the comments links to read more about the features that we used.
 
+* Use [this](https://github.com/suvelocity/TV-shows-boilerplate) template
+
 ## Requirements
 ---
 * First run `npm i` in your terminal to install all the dependencies you will need to complete this challenge.
